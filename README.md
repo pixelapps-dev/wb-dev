@@ -1,9 +1,3 @@
-# NextBase Starter
-
-![NextBase Lite Open Source Free Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/litebanner.png?raw=true)
-
-Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS. It includes the all new `app` folder, `layout` components, React `server components` and more!
-
 ## Features
 
 - 🚀 Next.js 13 with async components
@@ -41,21 +35,3 @@ Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.
 ### Deployment
 
 This is a simple Next.js project. Deployment is the same as any other Next.js project. You can deploy it to Vercel, Netlify, or any other hosting provider.
-
-### Contributing
-
-Contributions are welcome. Please open an issue or a PR.
-
-### License
-
-MIT
-
-### Troubleshooting
-
-Checkout the [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) file for common issues.
-
-## Premium NextBase Boilerplate
-
-Also checkout our premium boilerplate with more features. It includes a fully functional authentication system, user profiles, organisations, row level security, and more.
-
-[![NextBase Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/banner.png?raw=true)](https://usenextbase.com)
